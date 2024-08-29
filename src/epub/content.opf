@@ -50,7 +50,7 @@
 		<dc:creator id="author">David Hume</dc:creator>
 		<meta property="file-as" refines="#author">Hume, David</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/David_Hume</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79054039</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054039</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
