@@ -35,6 +35,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85072732</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Hume examines the fundamental nature of knowledge, reality and human understanding.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A foundational text in empiricism and skepticism, &lt;i&gt;An Enquiry Concerning Human Understanding&lt;/i&gt; comprehensively examines the nature of human cognition, the limits of human knowledge, and the role of reason in understanding the world. &lt;a href="https://standardebooks.org/ebooks/david-hume"&gt;Hume&lt;/a&gt; argues that our understanding of the world is based on custom, habit, and experience, rather than pure reason or innate knowledge. He challenges the notions of causality, induction, and the concepts of connections between cause and effect, arguing that our understanding of these relationships is based on probability and custom. It lays the groundwork for modern philosophy, emphasizing the importance of empirical evidence and the role of human psychology in shaping our beliefs and understanding of reality.&lt;/p&gt;
