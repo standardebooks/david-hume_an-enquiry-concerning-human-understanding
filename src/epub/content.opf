@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding</dc:identifier>
 		<dc:date>2024-09-09T19:27:34Z</dc:date>
@@ -39,10 +39,10 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Hume examines the fundamental nature of knowledge, reality and human understanding.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Hume examines the fundamental nature of knowledge, reality and human understanding.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A foundational text in empiricism and skepticism, &lt;i&gt;An Enquiry Concerning Human Understanding&lt;/i&gt; comprehensively examines the nature of human cognition, the limits of human knowledge, and the role of reason in understanding the world. &lt;a href="https://standardebooks.org/ebooks/david-hume"&gt;Hume&lt;/a&gt; argues that our understanding of the world is based on custom, habit, and experience, rather than pure reason or innate knowledge. He challenges the notions of causality, induction, and the concepts of connections between cause and effect, arguing that our understanding of these relationships is based on probability and custom. It lays the groundwork for modern philosophy, emphasizing the importance of empirical evidence and the role of human psychology in shaping our beliefs and understanding of reality.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9662</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007125123</dc:source>
