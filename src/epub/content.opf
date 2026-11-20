@@ -46,7 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9662</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007125123</dc:source>
-		<meta property="schema:wordCount">47994</meta>
+		<meta property="schema:wordCount">47995</meta>
 		<meta property="schema:educationalLevel">37.37</meta>
 		<link href="https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Human_Understanding" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
